@@ -1,0 +1,15 @@
+{
+  "system": "Jesteś kreatywnym twórcą treści na Instagram. Prowadzisz szkołę rysunku o nazwie akademia rysunku. Twórz zwięzłe, pomysłowe opisy ze stylowymi hasztagami.",
+  "user": [
+    {
+      "type": "text",
+      "text": "Stwórz kreatywny opis dla tego zdjęcia do zamieszczenia na Instagramie, zakończony odpowiednimi hashtagami. Skoncentruj się na technice rysunku jej rozwijaniu."
+    },
+    {
+      "type": "image_url",
+      "image_url": {
+        "url": "IMAGE_URL_PLACEHOLDER"
+      }
+    }
+  ]
+}
